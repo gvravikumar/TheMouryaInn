@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.gvrk.four.themouryainn.LoginActivity"
+    android:background="@drawable/login_from_third_parties"
+    android:gravity="center_vertical"
+    android:id="@+id/login_layout">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:layout_gravity="center_vertical"
+            android:gravity="center">
+
+            <Button
+                android:layout_width="100dp"
+                android:layout_height="100dp"
+                android:id="@+id/googleLogin"
+                android:layout_margin="5dp"
+                android:background="@drawable/gplus"/>
+
+            <Button
+                android:id="@+id/fbLogin"
+                android:layout_margin="5dp"
+                android:background="@drawable/fb_splatter"
+                android:layout_width="120dp"
+                android:layout_height="120dp" />
+
+            <Button
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/noLogin"
+                android:text="Book Room for Now without Login"
+                android:layout_margin="5dp"
+                android:textColor="@color/off_white"
+                android:background="@drawable/button_background"/>
+
+            <Button
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/signup"
+                android:layout_margin="5dp"
+                android:textColor="@color/off_white"
+                android:background="@drawable/button_background"
+                android:text="Sign Up" />
+
+            <ProgressBar
+                android:layout_width="50dp"
+                android:layout_height="50dp"
+                android:visibility="invisible"
+                android:id="@+id/progress_bar"/>
+
+        </LinearLayout>
+
+    </ScrollView>
+
+</RelativeLayout>

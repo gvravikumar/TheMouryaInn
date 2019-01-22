@@ -1,0 +1,63 @@
+{
+  "project_info": {
+    "project_number": "712323807754",
+    "firebase_url": "https://the-mourya-inn.firebaseio.com",
+    "project_id": "the-mourya-inn",
+    "storage_bucket": "the-mourya-inn.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:712323807754:android:e6a6716db989f5a5",
+        "android_client_info": {
+          "package_name": "com.gvrk.four.themouryainn"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "712323807754-4esmfqqt10upk4j8jj0btud494pksv4p.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "712323807754-3vkcugebbsd48s84qta0m76840sheakh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.gvrk.four.themouryainn",
+            "certificate_hash": "dc1f708101ecac673acca62504ebd879c6ae7646"
+          }
+        },
+        {
+          "client_id": "712323807754-ge8a3vne5n485810rffknipecg16q9uj.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "712323807754-4esmfqqt10upk4j8jj0btud494pksv4p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOOQhewGSKKvdko-URr8E-KBO1T0CRlwE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "712323807754-4esmfqqt10upk4j8jj0btud494pksv4p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

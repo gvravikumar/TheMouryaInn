@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/home_menu"
+        android:icon="@drawable/ic_home_black_24dp"
+        android:title="@string/title_home" />
+
+    <item
+        android:id="@+id/restaurants_menu"
+        android:icon="@drawable/ic_restaurant_menu_black_24dp"
+        android:title="@string/restaurants_menu" />
+
+    <item
+        android:id="@+id/rooms_menu"
+        android:icon="@drawable/ic_rooms_black_24dp"
+        android:title="@string/title_rooms" />
+
+    <item
+        android:id="@+id/reservations_menu"
+        android:icon="@drawable/ic_reservations_24dp"
+        android:title="@string/reservations" />
+
+    <item
+        android:id="@+id/settings_menu"
+        android:icon="@drawable/ic_settings_black_24dp"
+        android:title="@string/settings" />
+
+</menu>

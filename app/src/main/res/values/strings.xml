@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">TheMouryaInn</string>
+
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_rooms">Book Rooms</string>
+    <string name="reservations">Reservations Offers</string>
+
+    <string name="settings">Settings</string>
+
+    <string name="restaurants_menu">Book Restaurants</string>
+
+    <string name="server_client_id">663943728461-bgccm3ir52qlvr3metdho5s2gkndv7tq.apps.googleusercontent.com</string>
+    <!-- TODO: Remove or change this placeholder text -->
+</resources>

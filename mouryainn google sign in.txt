@@ -1,0 +1,6 @@
+
+DOWNLOAD CLIENT CONFIGURATION
+Client ID
+663943728461-bgccm3ir52qlvr3metdho5s2gkndv7tq.apps.googleusercontent.com
+Client Secret
+y4IwWtAAdsqPXLVmganhp6AS
