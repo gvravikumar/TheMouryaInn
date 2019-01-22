@@ -61,7 +61,7 @@ public class restaurants_adapter extends RecyclerView.Adapter<restaurants_adapte
             lp.height = 300;
             ivarray[i].setLayoutParams(lp);
             ivarray[i].setScaleType(ImageView.ScaleType.FIT_XY);
-            Glide.with(_context).load(_restaurants_modelList.get(position).getDrawables()[i]).asBitmap().into(UIUtils.getRoundedImageTarget(_context, ivarray[i], 12));
+            Glide.with(_context).load(_restaurants_modelList.get(position).getDrawables()[i]).into(ivarray[i]);
             if (ivarray[i].getParent() != null) {
                 ((ViewGroup) ivarray[i].getParent()).removeView(ivarray[i]);
             }

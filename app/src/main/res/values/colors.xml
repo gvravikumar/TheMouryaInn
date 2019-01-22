@@ -6,4 +6,5 @@
     <color name="aaa">#b6ff40c3</color>
     <color name="red">#3800ffbb</color>
     <color name="green">#fc0aed53</color>
+    <color name="checkavailability">#fc0aed53</color>
 </resources>
